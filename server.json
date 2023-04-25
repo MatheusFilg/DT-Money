@@ -5,7 +5,7 @@
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
-      "price": 14000,
+      "price": 1400,
       "createdAt": "2023-04-20T23:53:04.005Z"
     },
     {
@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 100,
       "createdAt": "2023-04-20T23:55:04.005Z"
+    },
+    {
+      "id": 3,
+      "description": "Parque",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 200,
+      "createdAt": "2023-04-24T23:55:04.005Z"
     }
   ]
 }
