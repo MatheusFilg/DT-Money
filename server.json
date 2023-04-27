@@ -23,6 +23,38 @@
       "category": "Lazer",
       "price": 200,
       "createdAt": "2023-04-24T23:55:04.005Z"
+    },
+    {
+      "description": "aaaa",
+      "category": "bazar",
+      "type": "income",
+      "price": 1332,
+      "createdAt": "2023-04-27T18:51:34.820Z",
+      "id": 4
+    },
+    {
+      "description": "escola josé",
+      "type": "outcome",
+      "category": "educação",
+      "price": 1200,
+      "createdAt": "2023-04-27T18:53:16.399Z",
+      "id": 5
+    },
+    {
+      "description": "escola josé",
+      "type": "outcome",
+      "category": "educação",
+      "price": 1233,
+      "createdAt": "2023-04-27T18:55:45.918Z",
+      "id": 6
+    },
+    {
+      "description": "Rodizio de Japa",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 129,
+      "createdAt": "2023-04-27T19:15:06.708Z",
+      "id": 7
     }
   ]
 }
